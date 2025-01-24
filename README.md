@@ -1,0 +1,1 @@
+Book Followed : Applied Text Analysis with Python https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/
